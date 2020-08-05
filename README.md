@@ -1,4 +1,4 @@
-![Hello World](hello-world.gif?raw=true)
+![Hello World](https://github.com/freyam/freyam/blob/master/hello-world.gif?raw=true)
 
 ### Hi there 👋
 
