@@ -1,5 +1,3 @@
-![Hello World](https://github.com/freyam/freyam/blob/master/hello-world.gif?raw=true)
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on **C++ and Batch/Bash Files**.
