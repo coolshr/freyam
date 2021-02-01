@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **C++**.
+- 🔭 I’m currently working on **C/C++/Python**.
 - 🌱 I’m currently learning **Data Structures and Algorithms**.
 - 💕 I love **Solving Problems**.
 - 💻 I want to **Contribute to the Open-Source Community**.
