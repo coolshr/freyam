@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **C/C++ and Front End Development**.
-- 🌱 I’m currently learning how to create **fluid animations using CSS**.
+- 🌱 I’m currently learning how to create **Fluid Animations using CSS**.
 - 💕 I love **Solving Problems and Playing arounf with Computer Softwares**.
 - 💻 I want to **Contribute to the Open-Source Community**.
 
