@@ -1,14 +1,4 @@
-## Hello, folks! <img src="wave.gif" width="30px">
-
-
 [![Header](header.gif "Header")](https://freyam.netlify.app/)
-
-<br>
-
-- 🔭 I’m currently working on **C/C++/Python and Front End Development**.
-- 🌱 I’m currently learning how to create **Fluid Animations using CSS**.
-- 💛 I love **Solving Problems and Playing around with Computer Softwares**.
-- 💻 I want to **Contribute to the Open Source Community**.
 
 <br>
 
